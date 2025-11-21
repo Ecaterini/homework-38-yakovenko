@@ -36,5 +36,6 @@ npm run dev
 
 Готову розгорнуту версію можна переглянути за посиланням:
 
-👉 **https://homework-38-yakovenko.vercel.app/**
+- (https://homework-38-yakovenko.vercel.app/)
+
 ```
